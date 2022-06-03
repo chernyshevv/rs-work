@@ -1,1 +1,3 @@
-Some GG
+I love JavaScript
+And this is very hard
+My <first> languages
